@@ -7,4 +7,4 @@
 Personagens treinados em `Prestidigitação` conseguem executar furtos discretos, manipular peças pequenas ou até mesmo costurar com precisão.
 
 #### Exemplo de Uso
-Um ladino tenta furtar uma moeda da bolsa de um mercador sem ser notado e faz uma rolagem de `Prestidigitação` para conseguir.
+> Um ladino tenta furtar uma moeda da bolsa de um mercador sem ser notado e faz uma rolagem de `Prestidigitação` para conseguir.

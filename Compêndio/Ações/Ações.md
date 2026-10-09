@@ -7,11 +7,11 @@ Cada ação possui um custo, podendo ser de 1 a 3 [[Ação|Ações]], 1 [[Reaç�
 Além disso, uma ação pode ter [[Modificadores]], que constituem regras adicionais para aquela ação.
 
 #### Ações Por Turno
-Em um turno, você possui por padrão 3 [[Ação|Ações]] e 1 [[Reação]].
-
-[[Ação Livre|Ações Livres]] podem ser utilizadas de forma indefinida, sem possuir um limite fixo.
-
-A quantidade de [[Ação|Ações]] e [[Reação|Reações]] por turno podem mudar devido a [[Condições]], [[Habilidades]], [[Magias]].
+> Em um turno, você possui por padrão 3 [[Ação|Ações]] e 1 [[Reação]].
+> 
+> [[Ação Livre|Ações Livres]] podem ser utilizadas de forma indefinida, sem possuir um limite fixo.
+> 
+> A quantidade de [[Ação|Ações]] e [[Reação|Reações]] por turno podem mudar devido a [[Condições]], [[Habilidades]], [[Magias]].
 
 ### Tipos
 - [[Ação]].

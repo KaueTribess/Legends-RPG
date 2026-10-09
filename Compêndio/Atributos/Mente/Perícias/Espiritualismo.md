@@ -6,4 +6,4 @@
 Personagens treinados em `Espiritualismo` possuem um espirito forte e uma grande capacidade de comunicação com seres superiores.
 
 #### Exemplo de Uso
-Um clérigo tenta encontrar respostas em sua divindade e faz uma rolagem de `Espiritualismo` para receber um direcionamento.
+> Um clérigo tenta encontrar respostas em sua divindade e faz uma rolagem de `Espiritualismo` para receber um direcionamento.

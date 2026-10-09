@@ -6,4 +6,4 @@
 Personagens treinados em `Determinação` conseguem resistir a manipulações e controles mentais, mantendo seus princípios.
 
 #### Exemplo de Uso
-Um guerreiro é atingido por uma magia de controle mental e faz uma rolagem de `Determinação` para resistir e manter controle de suas ações.
+> Um guerreiro é atingido por uma magia de controle mental e faz uma rolagem de `Determinação` para resistir e manter controle de suas ações.

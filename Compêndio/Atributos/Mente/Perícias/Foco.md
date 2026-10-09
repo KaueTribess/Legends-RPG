@@ -6,4 +6,4 @@
 Personagens treinados em `Foco` conseguem manter concentração em situações de caos.
 
 #### Exemplo de Uso
-Um conjurador tenta manter concentração em uma magia complexa durante um combate e faz uma rolagem de `Foco` para não interrompe-la.
+> Um conjurador tenta manter concentração em uma magia complexa durante um combate e faz uma rolagem de `Foco` para não interrompe-la.

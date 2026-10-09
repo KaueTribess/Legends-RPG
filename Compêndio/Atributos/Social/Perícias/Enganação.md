@@ -6,4 +6,4 @@
 Personagens treinados em `Enganação` conseguem criar histórias falsas plausíveis, enganar autoridades e ocultar a verdade.
 
 #### Exemplo de Uso
-Um ladino é questionado pela guarda sobre um roubo e faz uma rolagem de `Enganação` para criar um álibi convincente.
+> Um ladino é questionado pela guarda sobre um roubo e faz uma rolagem de `Enganação` para criar um álibi convincente.

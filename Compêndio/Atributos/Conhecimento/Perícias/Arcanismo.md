@@ -6,4 +6,4 @@
 Personagens treinados em `Arcanismo` compreendem como as magias funcionam e podem identificar energias arcanas.
 
 #### Exemplo de Uso
-Um conjurador enfrenta uma porta selada por magia e faz uma rolagem de `Arcanismo` para determinar qual tipo de feitiço foi usado no lacre e como poderá quebra-lo.
+> Um conjurador enfrenta uma porta selada por magia e faz uma rolagem de `Arcanismo` para determinar qual tipo de feitiço foi usado no lacre e como poderá quebra-lo.
