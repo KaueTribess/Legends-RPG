@@ -3,7 +3,7 @@
 ### Descrição
 São as ações mais comuns e que praticamente qualquer personagem pode utilizar.
 
-#### Lista
+### Lista
 - [[Abrir Fechadura]].
 - [[Andar]].
 - [[Arrombar]].

@@ -5,7 +5,7 @@ Representa a capacidade de comunicação, persuasão e influência de um persona
 
 Aqueles que focam no caminho `Social` possuem carisma natural, empatia aguçada e habilidade excepcional em negociações e performances. 
 
-#### Perícias
+### Perícias
 - [[Adestramento]].
 - [[Enganação]].
 - [[Intimidação]].
