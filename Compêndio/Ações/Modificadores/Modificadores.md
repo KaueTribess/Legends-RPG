@@ -7,7 +7,7 @@ São um conjunto de regras adicionais que constituem as ações em que aparecem.
 - [[Ataque]].
 - [[Manipulação]].
 - [[Movimento]].
-- [[Concentração]].--
+- [[Concentração]].
 - Sútil
 - Perseguição
 - [[Verbalização]].

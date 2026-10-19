@@ -5,7 +5,7 @@
 - **Reaplicação:** Não reaplicável.
 
 ### Descrição
-Você se concentra para manter ativo(s) o(s) efeito(s) de uma [[Ações|Ação]].
+Você se concentra para manter ativos um ou mais efeitos de uma [[Ações|Ação]].
 
 ### Enquanto afetado
-- Você não pode utilizar ações de [[Concentração]].
+- Você não pode utilizar ações com o modificador [[Concentração]].

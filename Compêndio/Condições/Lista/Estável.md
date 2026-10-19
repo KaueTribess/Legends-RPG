@@ -5,6 +5,6 @@
 - **Reaplicação:** Não reaplicável.
 
 ### Descrição
-Você esta bem, sem muitos ferimentos que o incomodam ou o atrapalham.
+Você está bem, sem ferimentos graves que prejudiquem suas ações.
 
 Seus [[Pontos de Vida|PV]] atuais estão acima de 50% dos seus [[Pontos de Vida|PV]] máximos.

@@ -1,4 +1,4 @@
 [[Modificadores|<- Modificadores]]
 
 ### Descrição
-Você se mantém [[Concentrado]] para manter ativo(s) o(s) efeito(s) de uma [[Ações|Ação]].
+Você precisará se manter [[Concentrado]] ao utilizar uma [[Ações|Ação]] com este modificador.
