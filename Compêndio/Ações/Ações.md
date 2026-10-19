@@ -56,8 +56,8 @@ Além disso, uma ação pode ter [[Modificadores]], que constituem regras adicio
 	- **Requirements** A creature is [undetected](https://2e.aonprd.com/Conditions.aspx?ID=39) by one or more of your allies but isn't undetected by you.
 	You indicate a creature that you can see to one or more allies, gesturing in a direction and describing the distance verbally. That creature is [hidden](https://2e.aonprd.com/Conditions.aspx?ID=22) to your allies, rather than undetected. This works only for allies who can see you and are in a position where they could potentially detect the target. If your allies can't hear or understand you, they must succeed at a Perception check against the creature's [Stealth](https://2e.aonprd.com/Skills.aspx?ID=15) DC or they misunderstand and believe the target is in a different location.
 - Agarrar: 1 Ação (Ataque):
-	- Permite tentar agarrar uma [[Criatura]] dentro do seu alcance corpo a corpo. Você realiza uma rolagem de [[Força]] contra uma rolagem de [[Força]] dele.
-	Caso você seja bem sucedido, o alvo sofre a condição [[Agarrado]] enquanto você puder mantê-lo ao seu alcance. Criaturas com dois ou mais tamanhos acima do usuário não podem ser agarradas por esta ação.
+	- Permite tentar agarrar uma Criatura dentro do seu alcance corpo a corpo. Você realiza uma rolagem de [[Força]] contra uma rolagem de [[Força]] dele.
+	Caso você seja bem sucedido, o alvo sofre a condição Agarrado enquanto você puder mantê-lo ao seu alcance. Criaturas com dois ou mais tamanhos acima do usuário não podem ser agarradas por esta ação.
 - 
 - Escalar: 1 Ação (Movimento, Manipulação)
 	- Requerimentos Você tem ambas as mãos livres. Você se move para cima, para baixo ou por uma inclinação. A menos que seja particularmente fácil, você deve realizar um teste de Atletismo. O MJ determina a CD baseado na natureza da inclinação e circunstâncias ambientais. Você fica desprevenido a menos que tenha uma Velocidade de escalada. Sucesso Crítico Você se move para cima, através de, ou desce seguramente a inclinação por 1,5 metros mais 1,5 metros para cada 6 metros de sua Velocidade em terra (um total de 3 metros para a maioria dos PJs). Sucesso Você se move para cima, através de, ou desce seguramente a inclinação por 1,5 metros para cada 6 metros de sua Velocidade em terra (um total de 1,5 metros para a maioria dos PJs, mínimo de 1,5 metros se sua Velocidade for menor que 6 metros). Falha Crítica Você cai. Se começou a escalar em solo estável, você cai e fica prostrado
@@ -77,10 +77,10 @@ Além disso, uma ação pode ter [[Modificadores]], que constituem regras adicio
 	- Requerimentos Você possui ferramentas de curandeiro (página 290). Você presta primeiros socorros a uma criatura adjacente que está morrendo ou sangrando. Se uma criatura estiver morrendo e sangrando, escolha o que está tentando tratar antes de fazer a rolagem. Você pode Administrar Primeiros Socorros novamente para tentar remediar o outro efeito. • Estabilizar Faça um teste de Medicina em uma criatura que esteja com 0 Pontos de Vida e tenha a condição morrendo. A CD é igual a 5 + a CD de rolagem de recuperação dessa criatura (normalmente 15 + o valor de morrendo dela). • Parar Sangramento Faça um teste de Medicina em uma criatura que esteja sofrendo dano persistente de sangramento (página 452), dando a ela uma chance de realizar outro teste simples para remover o dano persistente. A CD normalmente é a CD do efeito que causou o sangramento. Sucesso Se estiver tentando estabilizar, a criatura perde a condição morrendo (mas permanece inconsciente). Se estiver tentando parar sangramento, a criatura faz um teste simples para encerrar o sangramento. Falha Crítica Se estivesse tentando estabilizar, o valor de morrendo da criatura aumenta em 1. Se estivesse tentando parar sangramento, a criatura imediatamente sofre uma quantidade de dano igual ao dano persistente de sangramento dela.
 - Carregar: 2 Ações (Manipulação)
 	- Requer 1 mão livre. 
-	  Permite carregar uma criatura [[Sistemas/Legends 5/Condições/Lista/Debilitado|Debilitado]], ou objeto pesado que seja no máximo uma categoria de tamanho maior que seu personagem. Fazer isso concede -3 ou -2 em rolagens com pericias do atributo de [[Sistemas/Legends 5/Criaturas/Atributos/Destreza/Destreza|Destreza]], dependendo do tamanho da criatura/objeto.
+	  Permite carregar uma criatura [[Debilitado]], ou objeto pesado que seja no máximo uma categoria de tamanho maior que seu personagem. Fazer isso concede -3 ou -2 em rolagens com pericias do atributo de [[Destreza]], dependendo do tamanho da criatura/objeto.
 - Acelerar o Passo: 2 Ações (Perseguição)
-	- Permite forçar o próprio ritmo durante uma cena de [[Perseguição]].
-	  Recebe [[Vantagem]] na rolagem contra a complicação da [[Rodada]].
+	- Permite forçar o próprio ritmo durante uma cena de Perseguição.
+	  Recebe Vantagem na rolagem contra a complicação da Rodada.
 - Ajudar com Obstáculo: 2 Ações (Perseguição)
-	- Permite auxiliar uma [[Criatura]] aliada durante uma cena de [[Perseguição]].
-	  A [[Criatura]] aliada recebe [[Vantagem]] na rolagem contra a complicação da [[Rodada]].
+	- Permite auxiliar uma Criatura aliada durante uma cena de Perseguição.
+	  A Criatura aliada recebe Vantagem na rolagem contra a complicação da Rodada.
