@@ -1,4 +1,4 @@
-[[Porte|<- Porte]]
+[[Portes|<- Porte]]
 
 ### Descrição
 É extremamente pequeno, como alguns insetos grandes, pequenas criaturas feéricas, frascos ou adagas.

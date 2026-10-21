@@ -1,4 +1,4 @@
-[[Porte|<- Porte]]
+[[Portes|<- Porte]]
 
 ### Descrição
 É o tamanho padrão da maioria dos humanoides adultos, como humanos, elfos e grandes caixas.

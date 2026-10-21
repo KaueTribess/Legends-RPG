@@ -1,4 +1,4 @@
-[[Porte|<- Porte]]
+[[Portes|<- Porte]]
 
 ### Descrição
 É significativamente maior que a maioria dos humanoides adultos, como grandes bestas, ogros e carruagens.

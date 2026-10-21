@@ -1,4 +1,4 @@
-[[Porte|<- Porte]]
+[[Portes|<- Porte]]
 
 ### Descrição
 É monstruoso comparado com a maioria dos humanoides adultos, como feras ancestrais, gigantes, navios e prédios.

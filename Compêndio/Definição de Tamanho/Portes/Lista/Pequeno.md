@@ -1,4 +1,4 @@
-[[Porte|<- Porte]]
+[[Portes|<- Porte]]
 
 ### Descrição
 É menor que a maioria dos humanoides adultos, como crianças pequenas, anões, gnomos, animais domésticos ou barris.

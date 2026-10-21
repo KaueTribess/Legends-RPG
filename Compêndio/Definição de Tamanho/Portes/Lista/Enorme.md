@@ -1,4 +1,4 @@
-[[Porte|<- Porte]]
+[[Portes|<- Porte]]
 
 ### Descrição
 É várias vezes maior que a maioria dos humanoides adultos, como grandes criaturas abissais, alguns dragões e casas.
