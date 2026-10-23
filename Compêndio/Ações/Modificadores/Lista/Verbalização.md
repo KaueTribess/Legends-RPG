@@ -1,5 +1,8 @@
 [[Modificadores|<- Modificadores]]
 
+### Abreviação
+Verb.
+
 ### Descrição
 Você utiliza sua boca para verbalizar.
 

@@ -1,5 +1,8 @@
 [[Modificadores|<- Modificadores]]
 
+### Abreviação
+Mov.
+
 ### Descrição
 Você se move fisicamente de um local para o outro.
 

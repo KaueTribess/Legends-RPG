@@ -1,5 +1,8 @@
 [[Modificadores|<- Modificadores]]
 
+### Abreviação
+Atq.
+
 ### Descrição
 Você ataca algo ou alguém. 
 

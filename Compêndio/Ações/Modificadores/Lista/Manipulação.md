@@ -1,5 +1,8 @@
 [[Modificadores|<- Modificadores]]
 
+### Abreviação
+Manip.
+
 ### Descrição
 Você interage fisicamente utilizando sua(s) mão(s). 
 
