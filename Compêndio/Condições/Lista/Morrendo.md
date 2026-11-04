@@ -7,10 +7,17 @@
 ### Descrição
 Você fica cara a cara com a própria morte.
 
+Seus [[Pontos de Vida|PV]] atuais estão iguais ou abaixo de 0, mas ainda são maiores do que o negativo dos seus [[Pontos de Vida|PV]] máximos.
+
+Toda regra que fizer você ficar Morrendo reduz seus [[Pontos de Vida|PV]] atuais a 0, caso estejam acima desse valor.
+
 ### Enquanto afetado
+- Você fica [[Caído]] no chão. Deixar de estar Morrendo não remove a condição Caído.
 - Você não pode utilizar [[Ação|Ações]] e [[Reação|Reações]].
 - Você deve escolher como vai lidar com a morte no início do seu próximo turno.
-- Caso você recupere PV suficientes para perder a condição [[Debilitado]], também perde [[Morrendo]] e deve realizar uma [[Rolagem de Perícia]] usando [[Constituição]] com [[Dificuldade|DT]] 20 para não aumentar em 1 seu nível de [[Exaustão]].
+- Perder ou recuperar [[Pontos de Vida|PV]] sem sair da faixa de Morrendo não encerra nem reinicia a condição.
+- Caso seus [[Pontos de Vida|PV]] atuais se tornem maiores do que 0, você perde Morrendo e deve realizar uma [[Rolagem de Perícia]] usando [[Constituição]] com [[Dificuldade|DT]] 20 para não aumentar em 1 seu nível de [[Exaustão]].
+- A condição [[Morto]] sempre prevalece sobre Morrendo. Caso seus [[Pontos de Vida|PV]] atuais fiquem iguais ou abaixo do negativo dos seus [[Pontos de Vida|PV]] máximos, você perde Morrendo e fica Morto imediatamente.
 
 ### Lidando com a Morte
 Você deve escolher uma das 3 formas de lidar com a morte.
@@ -24,6 +31,8 @@ No início de cada um dos seus turnos, incluindo este, você deve realizar uma [
 - **Sucesso:** Você obtém 1 sucesso.
 - **Falha:** Você obtém 1 falha.
 - **Falha Crítica:** Você obtém 2 falhas.
+
+Quando você deixa de estar Morrendo, todos os sucessos e falhas acumulados são removidos. Caso fique Morrendo novamente, começa sem sucessos nem falhas.
 
 Caso você acumule 3 falhas, o personagem fica [[Morto]].
 

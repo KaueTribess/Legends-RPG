@@ -12,14 +12,19 @@ Elas podem limitar ações, conceder vantagens, causar dano recorrente, mudar n�
 > Dependendo do nível, as rolagens contra uma condição podem receber [[Vantagem]], [[Desvantagem]] ou o personagem ou objeto pode ser completamente imune a ela.
 
 ### Lista
+- [[Cansado]].
 - [[Caído]].
+- [[Colapsado]].
 - [[Concentrado]].
 - [[Crítico]].
-- [[Debilitado]].
+- [[Disposto]].
 - [[Estável]].
+- [[Exausto]].
+- [[Fatigado]].
 - [[Ferido]].
 - [[Morrendo]].
 - [[Morto]].
+- [[Revigorado]].
 
 desencorajado
 silenciado
