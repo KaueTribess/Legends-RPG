@@ -13,7 +13,7 @@ Você possui 0 pontos de Disposição.
 - Você permanece consciente e pode perceber o ambiente, falar de forma limitada e tomar decisões narrativas.
 - Você não pode utilizar [[Ação|Ações]] ou [[Reação|Reações]], deslocar-se por conta própria nem realizar atividades que exijam esforço físico.
 - Efeitos de cura não podem fazer você recuperar pontos de [[Vida]].
-- Você não pode recuperar [[PE]].
+- Você não pode recuperar pontos de [[Energia]].
 - Você não pode recuperar pontos de Disposição por meios comuns, como alimentação e descanso. Somente um Tratamento de Colapso pode fazer você recuperar pontos de Disposição.
 
 ### Sucumbindo ao Colapso
