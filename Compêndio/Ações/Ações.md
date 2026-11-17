@@ -40,15 +40,6 @@ Além disso, uma ação pode ter [[Modificadores]], que constituem regras adicio
 - Pegar Cobertura: 1 Ação
 	- **Requirements** You are benefiting from [standard cover](https://2e.aonprd.com/Rules.aspx?ID=2372), are near a feature that allows you to take cover, or are [prone](https://2e.aonprd.com/Conditions.aspx?ID=88).
 	You press yourself against a wall or duck behind an obstacle to take better advantage of cover. If you would have standard cover, you instead gain greater cover, which provides a +4 circumstance bonus to AC; to Reflex saves against area effects; and to [Stealth](https://2e.aonprd.com/Skills.aspx?ID=48) checks to [Hide](https://2e.aonprd.com/Actions.aspx?ID=2404), [Sneak](https://2e.aonprd.com/Actions.aspx?ID=2405), or otherwise avoid detection. Otherwise, you gain standard cover (a +2 circumstance bonus instead). If you're prone, you gain greater cover against ranged attacks. Take Cover lasts until you move from your current space, use an [attack](https://2e.aonprd.com/Traits.aspx?ID=540) action, become [unconscious](https://2e.aonprd.com/Conditions.aspx?ID=95), or end it as a free action.
-- Cavar: 1 Ação (Movimento)
-	- **Requirements** You have a burrow Speed.
-	You dig your way through dirt, sand, or a similar loose material at a rate up to your burrow Speed. You can't burrow through rock or other substances denser than dirt unless you have an ability that allows you to do so.
-- Voar: 1 Ação (Movimento)
-	- **Requirements** You have a burrow Speed.
-	You dig your way through dirt, sand, or a similar loose material at a rate up to your burrow Speed. You can't burrow through rock or other substances denser than dirt unless you have an ability that allows you to do so.
-- Nadar: 1 Ação (Movimento)
-	- **Requirements** You have a burrow Speed.
-	You dig your way through dirt, sand, or a similar loose material at a rate up to your burrow Speed. You can't burrow through rock or other substances denser than dirt unless you have an ability that allows you to do so.
 - Montar: 1 Ação (Movimento)
 	- **Requirements** You are adjacent to a creature that is at least one size larger than you and is willing to be your mount.
 	You move onto the creature and ride it. If you're already mounted, you can instead use this action to dismount, moving off the mount into a space adjacent to it.
@@ -59,8 +50,7 @@ Além disso, uma ação pode ter [[Modificadores]], que constituem regras adicio
 	- Permite tentar agarrar uma Criatura dentro do seu alcance corpo a corpo. Você realiza uma rolagem de [[Força]] contra uma rolagem de [[Força]] dele.
 	Caso você seja bem sucedido, o alvo sofre a condição Agarrado enquanto você puder mantê-lo ao seu alcance. Criaturas com dois ou mais tamanhos acima do usuário não podem ser agarradas por esta ação.
 - 
-- Escalar: 1 Ação (Movimento, Manipulação)
-	- Requerimentos Você tem ambas as mãos livres. Você se move para cima, para baixo ou por uma inclinação. A menos que seja particularmente fácil, você deve realizar um teste de Atletismo. O MJ determina a CD baseado na natureza da inclinação e circunstâncias ambientais. Você fica desprevenido a menos que tenha uma Velocidade de escalada. Sucesso Crítico Você se move para cima, através de, ou desce seguramente a inclinação por 1,5 metros mais 1,5 metros para cada 6 metros de sua Velocidade em terra (um total de 3 metros para a maioria dos PJs). Sucesso Você se move para cima, através de, ou desce seguramente a inclinação por 1,5 metros para cada 6 metros de sua Velocidade em terra (um total de 1,5 metros para a maioria dos PJs, mínimo de 1,5 metros se sua Velocidade for menor que 6 metros). Falha Crítica Você cai. Se começou a escalar em solo estável, você cai e fica prostrado
+- 
 - Empurrar: 1 Ação (Ataque)
 	- aaa
 - Salto a Distância: 2 Ações (Movimento)
